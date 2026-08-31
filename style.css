@@ -1,0 +1,60 @@
+.box{
+    color:brown;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    font-style:italic;
+    font-variant:small-caps;
+    line-height: 1.5;
+}
+div  p{
+    color:rgb(42, 80, 3);
+}
+h1 ~p{
+    color:darkgray:
+}
+.job-title{
+    text-align: center;
+}
+.jeevika{
+    text-indent: 20px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+p {
+    font-size: 16px;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+body {
+    background-image: url("\C:\Users\ELCOT\mystery hunt\detective-bg.jpg (2).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    background-image: url("C:\Users\ELCOT\mystery hunt\detective-bg.jpg (2).png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+body {
+    background-color: lightgray;
+    background-image: url("C:\Users\ELCOT\mystery hunt\detective-bg.jpg (2).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+}
